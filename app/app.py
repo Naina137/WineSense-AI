@@ -221,3 +221,4 @@ st.markdown("""
 WineSense AI • Machine Learning • Streamlit
 </div>
 """, unsafe_allow_html=True)
+
