@@ -83,7 +83,7 @@ WineSense-AI/
 
 ## Home Screen
 
-<img src="images/home-page.png" alt="Home Screen" width="100%">
+![Home](images/home-page.png)
 
 ---
 
