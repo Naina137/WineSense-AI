@@ -81,7 +81,7 @@ WineSense-AI/
 
 # Application Preview
 
-# Home Screen
+## Home Screen
 
 ![Home](images/home-page.png)
 
