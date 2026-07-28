@@ -83,13 +83,13 @@ WineSense-AI/
 
 ## Home Screen
 
-![Home](images/home-page.png)
+<img src="images/home-page.png" alt="Home Screen" width="100%">
 
 ---
 
 ## Prediction Screen
 
-![Prediction](images/prediction.png)
+<img src="images/prediction.png" alt="Prediction Screen" width="100%">
 
 ---
 
