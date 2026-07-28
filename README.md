@@ -83,7 +83,7 @@ WineSense-AI/
 
 ## Home Screen
 
-![Home](images/home-page.png)
+![Home](images%20/home-page.png)
 
 ---
 
