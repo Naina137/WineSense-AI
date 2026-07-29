@@ -2,8 +2,7 @@
   
 # 🍷 WineSense-AI
 
-![Banner](images/banner.png)
-
+<img src="images/banner.png" width="100%">
 ---
 ## AI-Powered Wine Quality Prediction System
 
