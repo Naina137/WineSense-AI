@@ -3,6 +3,7 @@
 # 🍷 WineSense-AI
 
 <img src="images/banner.png" width="100%">
+
 ---
 ## AI-Powered Wine Quality Prediction System
 
@@ -81,18 +82,11 @@ WineSense-AI/
 
 ---
 
-## Home Screen
+<h2>🏠 Home Screen</h2>
+<img src="images/home.png" width="100%">
 
-![Home](images/home-page.png)
-
----
-
-## Prediction Screen
-
-<img src="images/prediction.png" alt="Prediction Screen" width="100%">
-
----
-
+<h2>📊 Prediction Screen</h2>
+<img src="images/prediction.png" width="100%">
 # Live Demohttps://winesense-ai-oyr5ynivmpefuorhdcxpb4.streamlit.app
 
 ---
