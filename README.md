@@ -89,6 +89,7 @@ WineSense-AI/
 
 <h2>📊 Prediction Screen</h2>
 <img src="images/prediction.png" width="100%">
+
 # 🚀 Live Demo
 
 ## Try the Live Application
