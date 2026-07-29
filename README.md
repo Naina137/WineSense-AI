@@ -87,12 +87,17 @@ WineSense-AI/
 
 <h2>📊 Prediction Screen</h2>
 <img src="images/prediction.png" width="100%">
-# Live Demohttps://winesense-ai-oyr5ynivmpefuorhdcxpb4.streamlit.app
+
+# 🚀 Live Demo
+
+# 🌐 Try the Live Application
+https://winesense-ai-oyr5ynivmpefuorhdcxpb4.streamlit.app
 
 ---
 
-# GitHub Repository
+# 📂 Project Repository
 
+# 🔗 GitHub Source Code
 https://github.com/Naina137/WineSense-AI
 
 ---
