@@ -86,6 +86,7 @@ WineSense-AI/
 <img src="images/home.png" width="100%">
 
 
+
 <h2>📊 Prediction Screen</h2>
 <img src="images/prediction.png" width="100%">
 
@@ -105,11 +106,11 @@ https://github.com/Naina137/WineSense-AI
 
 ---
 
-# 🔗 Installation
+
 
 ---
 
-# Installation
+#  🔗 Installation
 
 Clone the repository
 
