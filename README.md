@@ -73,9 +73,9 @@ WineSense-AI/
 ├── models/
 ├── notebook/
 ├── images/
-│   ├── home-page.png
+│   ├── home.png
 │   └── prediction.png
-│
+├── banner.png
 ├── requirements.txt
 └── README.md
 ```
