@@ -1,7 +1,10 @@
 <div align="center">
-
+  
 # 🍷 WineSense-AI
 
+![Banner](images/banner.png)
+
+---
 ## AI-Powered Wine Quality Prediction System
 
 *Transforming physicochemical wine characteristics into intelligent quality predictions using Machine Learning.*
