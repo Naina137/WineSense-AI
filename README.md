@@ -79,11 +79,9 @@ WineSense-AI/
 
 ---
 
-# Application Preview
-
 ## Home Screen
 
-![Home](images%20/home-page.png)
+![Home](images/home-page.png)
 
 ---
 
@@ -93,11 +91,7 @@ WineSense-AI/
 
 ---
 
-# Live Demo
-
-# Streamlit Application
-
-https://winesense-ai-oyr5ynivmpefuorhdcxpb4.streamlit.app
+# Live Demohttps://winesense-ai-oyr5ynivmpefuorhdcxpb4.streamlit.app
 
 ---
 
